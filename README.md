@@ -91,10 +91,10 @@ npm run start
 
 ## Acknowledgment
 
-This project was developed with knowledge and skills acquired from various resources, notably **As a Programmer**, who provided insightful tutorials and guidance.
+This project was developed with knowledge and skills acquired from various resources, notably **Youtuber - As a Programmer**, who provided insightful tutorials and guidance.
 
 ---
 
 <p align="center">Happy Coding! ✨</p>
-```
+
 
